@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on an Application for my Hobby
-🌱 I’m currently learning React, React-Native, Java, JavaScript
+- 🔭 I’m currently working on an Application for my Hobby
+- 🌱 I’m currently learning React, React-Native, Java, JavaScript
 
