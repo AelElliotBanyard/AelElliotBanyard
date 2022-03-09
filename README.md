@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 ### Find Me
 
 <img align="left" alt="linked-in" src="https://img.shields.io/badge/-LinkedIn-0088ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img align="left" alt="instagram" src="https://img.shields.io/badge/-Insatgram-ff9500?style=for-the-badge&logo=instagram&logoColor=white"/>
