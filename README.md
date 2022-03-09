@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on an Application for my Hobby
 - 🌱 I’m currently learning React, React-Native, Java, JavaScript
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/-LinkedIn-0088ff?style=for-the-badge&logo=linkedin&logoColor=white"]
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/-LinkedIn-0088ff?style=for-the-badge&logo=linkedin&logoColor=white"/>]
