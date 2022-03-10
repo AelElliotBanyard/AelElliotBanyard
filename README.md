@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### My name is Ael
-# Im a French/English Software Developer. I like to programm in HTML and in React. I started when i was 12 years old but it was only a Hobby back then. Now im at a School in Winterthur/Switzerland and am Learning how to do it as a Profession!
+Im a French/English Software Developer. I like to programm in HTML and in React. I started when i was 12 years old but it was only a Hobby back then. Now im at a School in Winterthur/Switzerland and am Learning how to do it as a Profession!
 
 <!--
 **AelElliotBanyard/AelElliotBanyard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
