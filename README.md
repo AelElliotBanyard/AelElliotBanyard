@@ -1,5 +1,6 @@
 ### Hi there 👋
 #### My name is Ael
+# Im a French/English Software Developer. I like to programm in HTML and in React. I started when i was 12 years old but it was only a Hobby back then. Now im at a School in Winterthur/Switzerland and am Learning how to do it as a Profession!
 
 <!--
 **AelElliotBanyard/AelElliotBanyard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on an Application for my Hobby
 - 🌱 I’m currently learning React, React-Native, Java, JavaScript
 
-### Find Me
+## Socials:
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/-LinkedIn-0088ff?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ael-banyard-364979195/)
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/-Insatgram-ff9500?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/elliot.the.dragon_/)
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/-Facebook-0a448f?&style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/ael.banyard.3)
 <br>
 
-### These are the Languages i know
+## Languages Which i have programmed with:
 
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/>
