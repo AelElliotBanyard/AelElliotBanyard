@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/-LinkedIn-0088ff?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ael-banyard-364979195/)
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/-Insatgram-ff9500?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/elliot.the.dragon_/)
-
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/-Twitter-34b4eb?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/AelBanyard)
 <br>
 
 ### These are the Languages i know
