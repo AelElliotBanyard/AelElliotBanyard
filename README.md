@@ -36,3 +36,24 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img align="left" alt="React" src="https://img.shields.io/badge/-REACT-blue?style=for-the-badge&logo=react&logoColor=white"/>
 <img align="left" alt="SQL" src="https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+
+```vega-lite
+{
+	"$shema":
+	"https://vega.github.io/shema/vega-lit/v2.json",
+	"description": "test",
+	"data": {
+		"values": [
+			{"a": "A", "b": 20}, {"a": "B", "b": 55}
+		]
+	},
+	"mark": "bar",
+	"encoding": {
+		"x": {"field": "a", "type": "ordinal"},
+		"y": {"field": "b", "type": "quantitative"}
+	},
+	"width":500,
+	"height":400
+}
+```
