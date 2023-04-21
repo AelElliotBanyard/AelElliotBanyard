@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img align="left" alt="React" src="https://img.shields.io/badge/-REACT-blue?style=for-the-badge&logo=react&logoColor=white"/>
 <img align="left" alt="SQL" src="https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="left" alt="Next.js" src="https://img.shields.io/badge/-Next.JS-white?style=for-the-badge&logo=next.js&logoColor=black" />
