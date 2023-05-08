@@ -2,6 +2,8 @@
 #### My name is Ael
 Im a French/English Software Developer. I like to programm in HTML and in React. I started when i was 12 years old but it was only a Hobby back then. Now im at a School in Winterthur/Switzerland and am Learning how to do it as a Profession!
 
+You can find my Website at [banyard.tech](https://banyard.tech)
+
 <!--
 **AelElliotBanyard/AelElliotBanyard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,14 +19,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on an Application for my Hobby
-- 🌱 I’m currently learning React, React-Native, Java, JavaScript
+- 🌱 I’m currently learning how to make my own NPM packages
 
 ## Socials:
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/-LinkedIn-0088ff?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ael-banyard-364979195/)
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/-Instagram-ff9500?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/elliot.the.dragon_/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/-Twitter-34b4eb?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/AelBanyard)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/-Facebook-0a448f?&style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/ael.banyard.3)
+<!--[<img align="left" alt="twitter" src="https://img.shields.io/badge/-Twitter-34b4eb?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/AelBanyard)-->
+<!--[<img align="left" alt="facebook" src="https://img.shields.io/badge/-Facebook-0a448f?&style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/ael.banyard.3)-->
 <br>
 
 ## Languages which I have programmed with:
