@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on an Application for my Hobby
-- 🌱 I’m currently learning how to make my own NPM packages
+- 🔭 I’m currently working on an Application for an E-Shop
+- 🌱 I’m currently learning NextJS in more detail
 
 ## Socials:
 
@@ -41,3 +41,12 @@ Here are some ideas to get you started:
 <img align="left" alt="React" src="https://img.shields.io/badge/-REACT-blue?style=for-the-badge&logo=react&logoColor=white"/>
 <img align="left" alt="SQL" src="https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="left" alt="Next.js" src="https://img.shields.io/badge/-Next.JS-white?style=for-the-badge&logo=next.js&logoColor=black" />
+
+## OS i can work on
+
+<img align="left" alt="Mac" src="https://img.shields.io/badge/-MAC-000000?style=for-the-badge&logo=Apple&logoColor=white"/>
+<img align="left" alt="Windows" src="https://img.shields.io/badge/-WINDOWS-0078d4?style=for-the-badge&logo=windows&logoColor=white"/>
+<img align="left" alt="Ubuntu" src="https://img.shields.io/badge/-UBUNTU-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img align="left" alt="Raspbian" src="https://img.shields.io/badge/-RASPBIAN-c51a4a?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img align="left" alt="Debian" src="https://img.shields.io/badge/-DEBIAN-CE0056?style=for-the-badge&logo=debian&logoColor=white"/>
+
