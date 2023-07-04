@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## Socials:
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/-LinkedIn-0088ff?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ael-banyard-364979195/)
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/-Instagram-ff9500?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/elliot.the.dragon_/)
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/-Instagram-ff9500?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/ael.banyard/)
 <!--
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/-Twitter-34b4eb?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/AelBanyard)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/-Facebook-0a448f?&style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/ael.banyard.3)
@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 <img align="left" alt="SQL" src="https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="left" alt="Next.js" src="https://img.shields.io/badge/-Next.JS-white?style=for-the-badge&logo=next.js&logoColor=black" />
 
+<br>
+
 ## OS i can work on
 
 <img align="left" alt="Mac" src="https://img.shields.io/badge/-MAC-000000?style=for-the-badge&logo=Apple&logoColor=white"/>
@@ -50,3 +52,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Raspbian" src="https://img.shields.io/badge/-RASPBIAN-c51a4a?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 <img align="left" alt="Debian" src="https://img.shields.io/badge/-DEBIAN-CE0056?style=for-the-badge&logo=debian&logoColor=white"/>
 
+<br>
+
+## Stats
+
+[<img align="left" alt="Overview" src="https://github.com/AelElliotBanyard/my-stats/blob/master/generated/overview.svg" />](https://github.com/AelElliotBanyard/my-stats/blob/master/generated/overview.svg)
+[<img align="left" alt="Langs" src="https://github.com/AelElliotBanyard/my-stats/blob/master/generated/languages.svg" />](https://github.com/AelElliotBanyard/my-stats/blob/master/generated/languages.svg)
