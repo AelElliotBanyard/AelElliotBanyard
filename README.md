@@ -56,5 +56,5 @@ Here are some ideas to get you started:
 
 ## Stats
 
-[<img align="left" alt="Overview" src="https://github.com/AelElliotBanyard/my-stats/blob/master/generated/overview.svg" />](https://github.com/AelElliotBanyard/my-stats/blob/master/generated/overview.svg)
-[<img align="left" alt="Langs" src="https://github.com/AelElliotBanyard/my-stats/blob/master/generated/languages.svg" />](https://github.com/AelElliotBanyard/my-stats/blob/master/generated/languages.svg)
+[<img align="left" alt="Overview" src="https://github.com/AelElliotBanyard/my-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />](https://github.com/AelElliotBanyard/my-stats/blob/master/generated/overview.svg)
+[<img align="left" alt="Langs" src="https://github.com/AelElliotBanyard/my-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />](https://github.com/AelElliotBanyard/my-stats/blob/master/generated/languages.svg)
