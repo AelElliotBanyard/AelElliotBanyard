@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Ubuntu" src="https://img.shields.io/badge/-UBUNTU-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img align="left" alt="Raspbian" src="https://img.shields.io/badge/-RASPBIAN-c51a4a?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 <img align="left" alt="Debian" src="https://img.shields.io/badge/-DEBIAN-CE0056?style=for-the-badge&logo=debian&logoColor=white"/>
+<img align="left" alt="Synology DSM" src="https://img.shields.io/badge/-synology%20DSM-B5B5B6?style=for-the-badge&logo=synology&logoColor=black"/>
 
 <br>
 
